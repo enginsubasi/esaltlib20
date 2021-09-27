@@ -172,7 +172,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NDXGDCUE
 
 [Document9]
 DocumentPath=ftp\DPAK.PcbLib
