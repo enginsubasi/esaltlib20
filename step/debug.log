@@ -20,3 +20,6 @@
 [0723/143126:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0723/143634:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0723/143918:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0708/184109:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0708/231138:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0708/234042:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
